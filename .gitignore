@@ -1,0 +1,5 @@
+# Ignorer les fichiers de sauvegarde automatique de Jupyter
+.ipynb_checkpoints/
+
+# Ignorer les fichiers temporaires de l'éditeur
+*~ 
